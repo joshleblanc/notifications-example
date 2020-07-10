@@ -1,24 +1,7 @@
-# README
+# Short example of notifications with stimulus and stimulus_reflex
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Check out: 
+* app/channels/notifications_channel.rb
+* app/javascript/controllers/notifier_controller.js
+* app/reflexes/notification_reflex.rb
+* app/views/index/index.html.erb
