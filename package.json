@@ -1,0 +1,20 @@
+{
+  "name": "notifications_example",
+  "private": true,
+  "dependencies": {
+    "@beyonk/svelte-notifications": "^2.0.3",
+    "@rails/actioncable": "^6.0.0",
+    "@rails/activestorage": "^6.0.0",
+    "@rails/ujs": "^6.0.0",
+    "@rails/webpacker": "4.2.2",
+    "stimulus": "^1.1.1",
+    "stimulus_reflex": "^3.3.0-pre1",
+    "svelte": "^3.24.0",
+    "svelte-loader": "^2.13.6",
+    "turbolinks": "^5.2.0"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.0"
+  }
+}
