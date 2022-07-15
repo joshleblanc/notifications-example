@@ -9,7 +9,7 @@
     "@rails/webpacker": "4.2.2",
     "stimulus": "^1.1.1",
     "stimulus_reflex": "^3.3.0-pre1",
-    "svelte": "^3.24.0",
+    "svelte": "^3.49.0",
     "svelte-loader": "^2.13.6",
     "turbolinks": "^5.2.0"
   },
